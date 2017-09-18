@@ -1,0 +1,11 @@
+{
+    "name": "dn3",
+    "targetName": "dn3",
+    "targetType": "staticLibrary",
+    "targetPath": "lib",
+    "stringImportPaths" : [ "resources" ],
+    "versions" : [ "tracer" ],
+    "dependencies" : {
+        "pegged" : "0.4.2"
+    }
+}
